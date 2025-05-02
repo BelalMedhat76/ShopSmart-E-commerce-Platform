@@ -12,7 +12,6 @@ A modern full-stack e-commerce website built using **Next.js 15** (frontend) and
 - 🧩 Flask REST API backend
 - 🗃️ SQLite database via DBeaver
 - 🛍️ Shop by Category & Product Listing
-- 🌙 Light/Dark Mode support
 - 🔁 Reusable components and clean code structure
 
 ---
