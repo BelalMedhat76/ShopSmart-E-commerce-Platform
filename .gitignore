@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# SQLite DB
+*ecommerce.db
+
+# Node
+node_modules/
+.next/
+.env
